@@ -49,5 +49,8 @@
   },
   "3.1.9": {
     "en": "Return 0 rather than null from capability listener"
+  },
+  "3.1.10": {
+    "en": "Simplify device.js (avoid on/off capability error)"
   }
 }
